@@ -1,6 +1,6 @@
 # learning-motivation
 
-**Implementation of the analyses described in Kuperwajs and Ma (2025).**
+**Implementation of the analyses described in Kuperwajs and Ma (2026).**
 
 ## Approach
 
